@@ -48,7 +48,7 @@ section{
     justify-content: center;
     width: 100%;
     min-height: 100vh;
-    background: url(/imeges/app-development.png) no-repeat;
+    background: url(imeges/app-development.png) no-repeat;
     background-color: rgb(0, 0, 0);
     background-position: 93% center;
     background-size: 30%;
